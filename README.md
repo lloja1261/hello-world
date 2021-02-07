@@ -1,6 +1,6 @@
 # hello-world
 This is the repository for the codepath program for mobile app development
-## NAME_OF_YOUR_APP_HERE
+## Preview
 
 ### App Description
 `TODO://`This app is the first mobile app that I have worked on. Using different colors, buttons, and views I was able to build a simple app that had vibrant colors. The app has an introduction from myself and it also has the ability to change to color of the introductoty text with the use of a button. 

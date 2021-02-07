@@ -8,7 +8,7 @@ This is the repository for the codepath program for mobile app development
 ### App Walk-though
 `TODO://` 
 
-<img src="https://recordit.co/KrSfrPcS7r" width=200><br>
+<img src="http://g.recordit.co/KrSfrPcS7r.gif" width=200><br>
 
 `TODO://` 
 

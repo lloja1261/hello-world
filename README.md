@@ -8,7 +8,7 @@ This is the repository for the codepath program for mobile app development
 ### App Walk-though
 
 
-<img src="lloja1261/hello-world/gif.gif?raw=true" width=200><br>
+<img src="gif.gif?raw=true" width=200><br>
 
 
 
